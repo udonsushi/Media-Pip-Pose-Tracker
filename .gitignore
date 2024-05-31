@@ -1,0 +1,8 @@
+# Ignore files in .ipynb_checkpoints directory
+.ipynb_checkpoints/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore log files
+*.log
