@@ -1,2 +1,1 @@
-# Posture Tracker
-# Sound alerts user when their posture is bad
+Based on Nicholas Renotte's AI Gym Tracker Project!
