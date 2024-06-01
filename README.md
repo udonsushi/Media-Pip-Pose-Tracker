@@ -1,1 +1,2 @@
-# Media-Pip-Pose-Tracker
+# Posture Tracker
+# Sound alerts user when their posture is bad
